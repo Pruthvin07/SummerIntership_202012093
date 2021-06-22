@@ -1,0 +1,13 @@
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.exe
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.deps.json
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.runtimeconfig.json
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.runtimeconfig.dev.json
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.dll
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\bin\Debug\netcoreapp3.1\Insem-1-Q1_202012093.pdb
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.csprojAssemblyReference.cache
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.AssemblyInfoInputs.cache
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.AssemblyInfo.cs
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.dll
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.pdb
+D:\Summer Internship\Insem-1_202012093\Insem-1-Q1_202012093\Insem-1-Q1_202012093\obj\Debug\netcoreapp3.1\Insem-1-Q1_202012093.genruntimeconfig.cache

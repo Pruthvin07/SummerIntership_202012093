@@ -1,0 +1,13 @@
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.deps.json
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.dll
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\ref\WeatherPJ.dll
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.pdb
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.AssemblyInfoInputs.cache
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.AssemblyInfo.cs
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.csproj.CoreCompileInputs.cache
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.dll
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\ref\WeatherPJ.dll
+D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.pdb

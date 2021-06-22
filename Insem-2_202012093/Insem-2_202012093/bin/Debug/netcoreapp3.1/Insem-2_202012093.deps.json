@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Insem-2_202012093/1.0.0": {
+        "runtime": {
+          "Insem-2_202012093.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insem-2_202012093/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
