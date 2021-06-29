@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YY1Pn0wnq5+yqzZkjcdUDUIr9WfFVjys1d3hTN5vBLmWafE7pC8mz2MXcU9vFlo7y1sKRBCfMeCpF/jz52hM4w==",
+  "dgSpecHash": "++j9iA0DwMVD1QY3KcjYmREsLSObkg0LiTDqn3wfSWQQfA7Hxi3KhRE+hq05OTAtkG5xtLSUdJQqCs97bvvJmw==",
   "success": true,
-  "projectFilePath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj",
+  "projectFilePath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pruthvin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Pruthvin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

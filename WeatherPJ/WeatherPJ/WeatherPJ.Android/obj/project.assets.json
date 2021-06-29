@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
+      "projectUniqueName": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
       "projectName": "WeatherPJ.Android",
-      "projectPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
+      "projectPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
       "packagesPath": "C:\\Users\\Pruthvin\\.nuget\\packages\\",
-      "outputPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\obj\\",
+      "outputPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj": {
-              "projectPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj"
+            "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj": {
+              "projectPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj"
             }
           }
         }

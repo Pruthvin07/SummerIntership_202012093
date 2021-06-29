@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SetUpApp.MainPage" NavigationPage.HasNavigationBar="False">
+
+    <Grid RowDefinitions="*, 2*, Auto">
+        <BoxView Grid.RowSpan="3">
+            <BoxView.Background>
+                <LinearGradientBrush>
+                    <GradientStopCollection>
+                        <GradientStop Color="#161616" Offset="0"/>
+                        <GradientStop Color="#30343F" Offset="1"/>
+                    </GradientStopCollection>
+                </LinearGradientBrush>
+            </BoxView.Background>
+        </BoxView>
+        <Grid>
+            <Path Data="M0,0H375V262.033s-9.025,4.813-55.426-10.71-70.141-83.047-130.3-83.22-83.544,67.7-130.893,83.22S0,262.033,0,262.033Z"
+                  Aspect="Fill" Fill="#FFBE00"/>
+            <Image Source="menu.png" WidthRequest="20" HeightRequest="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="25"/>
+            <Image Source="search.png" WidthRequest="20" HeightRequest="20" HorizontalOptions="End" VerticalOptions="Start" Margin="25"/>
+        </Grid>
+        <StackLayout Grid.Row="1" HorizontalOptions="Center" Margin="0,-140,0,0" Spacing="30">
+            <Grid HeightRequest="90" WidthRequest="210" HorizontalOptions="Center">
+
+            </Grid>
+            <StackLayout HorizontalOptions="Center" Spacing="15">
+                <Label Text="Setup" TextColor="White" FontSize="42" FontAttributes="Bold" HorizontalOptions="Center"/>
+                <Label Text="Let's set it up ! " TextColor="White" FontSize="18" FontAttributes="Italic" HorizontalOptions="Center"/>
+                <Label Text="What will this device be used as ?" TextColor="White" FontSize="18" FontAttributes="Italic" HorizontalOptions="Center"/>
+                <Label Text="" TextColor="White" FontSize="18" FontAttributes="Italic" HorizontalOptions="Center"/>
+                <Button Text="An Agent" TextColor="White" BackgroundColor="#FFBE00" WidthRequest="150" HeightRequest="46" 
+                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"/>
+                <Label Text="OR" TextColor="White" FontSize="12" HorizontalOptions="Center"/>
+                <Button Text="A Controller" TextColor="White" BackgroundColor="#FFBE00" WidthRequest="150" HeightRequest="46" 
+                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"/>
+            </StackLayout>
+        </StackLayout>
+
+    </Grid>
+
+</ContentPage>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52m/TUd8yRL/yr4vdndpAGvS1pwTlSe9gxrctf8MwPWx9eBx3LTR6fT/GbcKtddUTEmldSLx6GM7ZUtXntopAQ==",
+  "dgSpecHash": "7rM8FJxj08AGAgq53tB3uKkOhfvf3xC8XJXfxcxd9+bUHuSoRHCbcR2VYdi5L5Mmud9XqGTedtuwNcV+l/cG0A==",
   "success": true,
-  "projectFilePath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
+  "projectFilePath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pruthvin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

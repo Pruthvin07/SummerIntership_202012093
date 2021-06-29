@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
+      "projectUniqueName": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
       "projectName": "WeatherPJ.iOS",
-      "projectPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
+      "projectPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\WeatherPJ.iOS.csproj",
       "packagesPath": "C:\\Users\\Pruthvin\\.nuget\\packages\\",
-      "outputPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\obj\\",
+      "outputPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj": {
-              "projectPath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj"
+            "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj": {
+              "projectPath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ\\WeatherPJ.csproj"
             }
           }
         }

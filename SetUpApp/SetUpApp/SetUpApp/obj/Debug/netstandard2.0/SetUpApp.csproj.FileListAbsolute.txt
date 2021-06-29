@@ -1,0 +1,14 @@
+D:\SetUpApp\SetUpApp\SetUpApp\bin\Debug\netstandard2.0\SetUpApp.deps.json
+D:\SetUpApp\SetUpApp\SetUpApp\bin\Debug\netstandard2.0\SetUpApp.dll
+D:\SetUpApp\SetUpApp\SetUpApp\bin\Debug\netstandard2.0\ref\SetUpApp.dll
+D:\SetUpApp\SetUpApp\SetUpApp\bin\Debug\netstandard2.0\SetUpApp.pdb
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.csproj.AssemblyReference.cache
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.AssemblyInfoInputs.cache
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.AssemblyInfo.cs
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.csproj.CoreCompileInputs.cache
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.dll
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\ref\SetUpApp.dll
+D:\SetUpApp\SetUpApp\SetUpApp\obj\Debug\netstandard2.0\SetUpApp.pdb

@@ -11,3 +11,17 @@ D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\Xaml
 D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.dll
 D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\ref\WeatherPJ.dll
 D:\Summer Internship\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.pdb
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.deps.json
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.dll
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\ref\WeatherPJ.dll
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\bin\Debug\netstandard2.0\WeatherPJ.pdb
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.csproj.AssemblyReference.cache
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.AssemblyInfoInputs.cache
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.AssemblyInfo.cs
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.csproj.CoreCompileInputs.cache
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.dll
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\ref\WeatherPJ.dll
+D:\SummerIntership_202012093\WeatherPJ\WeatherPJ\WeatherPJ\obj\Debug\netstandard2.0\WeatherPJ.pdb

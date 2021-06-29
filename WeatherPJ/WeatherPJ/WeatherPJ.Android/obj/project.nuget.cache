@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RJef4z6XnIU+9eomQIwQomzgIuRJ3OEPChrKL8RLS341GlxHp2upRwBRICZWdcOKnCEuBh7dDRJvdhIBkBt88A==",
+  "dgSpecHash": "jgDr8fXQ9iHejaIjDYOFDuiie3ashjX1MFD+u8tMsnp2kc3m3uSjJH/44k84SosBMiaxXeDCdvCgp8QWUs0J9A==",
   "success": true,
-  "projectFilePath": "D:\\Summer Internship\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
+  "projectFilePath": "D:\\SummerIntership_202012093\\WeatherPJ\\WeatherPJ\\WeatherPJ.Android\\WeatherPJ.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pruthvin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
