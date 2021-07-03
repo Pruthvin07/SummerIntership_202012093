@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wu+8HA6zp44A4cwY91p/NEu7P+dim0hPzWGHE8zX4CDrMVr46l+U4jnO/1oVOqFGZN9EQfJ6aC1mkRz+w7FVug==",
+  "dgSpecHash": "DTSbnYXB+sO4GTmyucFxgKz6DKGyMh856YCDbbsel0p4D+p3+p4NkpLW+BkW4vaLj+Adecq0YW9fLm/TJVg99A==",
   "success": true,
-  "projectFilePath": "D:\\SetUpApp\\SetUpApp\\SetUpApp.iOS\\SetUpApp.iOS.csproj",
+  "projectFilePath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.iOS\\SetUpApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pruthvin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

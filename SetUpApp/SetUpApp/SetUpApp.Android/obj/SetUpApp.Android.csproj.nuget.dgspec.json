@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj": {}
+    "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj": {}
   },
   "projects": {
-    "D:\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj": {
+    "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj",
+        "projectUniqueName": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj",
         "projectName": "SetUpApp.Android",
-        "projectPath": "D:\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj",
+        "projectPath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.Android\\SetUpApp.Android.csproj",
         "packagesPath": "C:\\Users\\Pruthvin\\.nuget\\packages\\",
-        "outputPath": "D:\\SetUpApp\\SetUpApp\\SetUpApp.Android\\obj\\",
+        "outputPath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj": {
-                "projectPath": "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj"
+              "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj": {
+                "projectPath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj": {
+    "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
+        "projectUniqueName": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
         "projectName": "SetUpApp",
-        "projectPath": "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
+        "projectPath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
         "packagesPath": "C:\\Users\\Pruthvin\\.nuget\\packages\\",
-        "outputPath": "D:\\SetUpApp\\SetUpApp\\SetUpApp\\obj\\",
+        "outputPath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

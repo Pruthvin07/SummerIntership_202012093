@@ -30,10 +30,10 @@
                 <Label Text="What will this device be used as ?" TextColor="White" FontSize="18" FontAttributes="Italic" HorizontalOptions="Center"/>
                 <Label Text="" TextColor="White" FontSize="18" FontAttributes="Italic" HorizontalOptions="Center"/>
                 <Button Text="An Agent" TextColor="White" BackgroundColor="#FFBE00" WidthRequest="150" HeightRequest="46" 
-                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"/>
+                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"  />
                 <Label Text="OR" TextColor="White" FontSize="12" HorizontalOptions="Center"/>
                 <Button Text="A Controller" TextColor="White" BackgroundColor="#FFBE00" WidthRequest="150" HeightRequest="46" 
-                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"/>
+                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"  Clicked="Button_Clicked"/>
             </StackLayout>
         </StackLayout>
 

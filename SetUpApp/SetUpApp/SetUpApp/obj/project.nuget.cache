@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pexjIGmZsShZA7329Mrg6/EPQbfKW5RIE9ulXY22gbe1VHtZ/8nMnYLU6uXDlQwYNz4CleFubRnXQ1nTsO6YhA==",
+  "dgSpecHash": "v6SO4Mnrh5fNVKX/v7OU593XoPXs9X/IOYgleQJEInn3KgrXoRW5DJoJP6/7TLCIbA9B4do9mjQl3dKHYgH1jQ==",
   "success": true,
-  "projectFilePath": "D:\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
+  "projectFilePath": "D:\\SummerIntership_202012093\\SetUpApp\\SetUpApp\\SetUpApp\\SetUpApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pruthvin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Pruthvin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
