@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SetUpApp.Agent" NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto">
+            <BoxView Grid.RowSpan="3">
+                <BoxView.Background>
+                    <LinearGradientBrush>
+                        <GradientStopCollection>
+                            <GradientStop Color="#161616" Offset="0"/>
+                            <GradientStop Color="#30343F" Offset="1"/>
+                        </GradientStopCollection>
+                    </LinearGradientBrush>
+                </BoxView.Background>
+            </BoxView>
+
+            <Grid>
+                <Path Data="M0,0H375V129.651s-9.025,2.382-55.426-5.3-70.141-41.09-130.3-41.176-83.544,33.5-130.893,41.176S0,129.651,0,129.651Z"
+                  Aspect="Fill" Fill="#FFBE00"/>
+                <StackLayout Orientation="Horizontal" Margin="25" Spacing="20" VerticalOptions="Start">
+                    <ImageButton Source="menu.png" BackgroundColor="Transparent" WidthRequest="20" HeightRequest="20" 
+                    HorizontalOptions="Start" VerticalOptions="Center" Command="{Binding BackCommand}" />
+                    <Label Text="Agent" TextColor="Black" FontSize="20" FontAttributes="Bold" VerticalOptions="Start"/>
+                </StackLayout>
+            </Grid>
+            <StackLayout Grid.Row="1" HorizontalOptions="Center" Margin="0,-100,0,0" Spacing="30">
+                <Grid HeightRequest="90" WidthRequest="210" HorizontalOptions="Center">
+
+                </Grid>
+                <StackLayout HorizontalOptions="Center" Spacing="15">
+
+                    <Label Text="Let's set it up ! " TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalOptions="Center"/>
+                    <Label Text="                Who is controller of this device ?               " TextColor="White" FontSize="14" FontAttributes="Italic" HorizontalOptions="Center"/>
+                    <Label Text="" TextColor="White" FontSize="10" FontAttributes="Italic" HorizontalOptions="Center"/>
+                    <Entry Placeholder="Controller Name" PlaceholderColor="White" FontSize="14" TextColor="White"/>
+                    <Entry Placeholder="Controller Password" PlaceholderColor="White" FontSize="14" IsPassword="True" TextColor="White"/>
+                   
+                    <Label Text="" TextColor="White" FontSize="10" FontAttributes="Italic" HorizontalOptions="Center"/>
+                    <Button Text="GO !" TextColor="White" BackgroundColor="#FFBE00" WidthRequest="150" HeightRequest="46" 
+                    CornerRadius="23" HorizontalOptions="Center" Command="{Binding OrderCommand}"  />
+
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
